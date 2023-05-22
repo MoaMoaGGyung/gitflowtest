@@ -5,3 +5,9 @@ export const RedBox = styled.div`
   width: 100px;
   height: 100px;
 `;
+
+export const BlueBox = styled.div`
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+`
